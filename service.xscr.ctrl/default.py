@@ -62,3 +62,4 @@ os.system("xset s on")
 
 
 xbmc.log("enabled scrs and dpms;exit",xbmc.LOGERROR)
+
